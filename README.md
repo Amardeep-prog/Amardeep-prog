@@ -14,8 +14,8 @@ Hi 👋, I'm Amardeep Maroli
 - **Operating Systems:** Ubuntu, Kali Linux, Windows  
 
 ## 🔹 Projects  
-- 🔒 [Secure Online Auction App](#) – MERN + JWT + RBAC  
-- 📂 [File Organizer Automation](#) – Python script for file management  
+- 🔒 [Secure Online Auction App]( https://github.com/Amardeep-prog/online-auction) – MERN + JWT + RBAC  
+- 📂 [File Organizer Automation](https://github.com/Amardeep-prog/file-organizer) – Python script for file management  
 - 🤖 [AI Intrusion Detection System](#) – ML-powered anomaly detection  
 - ⛓️ [Blockchain Project](#) – Decentralized application  
 
