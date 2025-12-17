@@ -16,7 +16,8 @@ Hi 👋, I'm Amardeep Maroli
 ## 🔹 Projects  
 - 🔒 [Secure Online Auction App]( https://github.com/Amardeep-prog/online-auction) – MERN + JWT + RBAC  
 - 📂 [File Organizer Automation](https://github.com/Amardeep-prog/file-organizer) – Python script for file management  
-- 🤖 [AI Intrusion Detection System](#) – ML-powered anomaly detection  
+- 🤖 **[AI Intrusion Detection System](https://github.com/Amardeep-prog/AI-Intrusion-Detection-System-AIIDS-)** – ML-powered anomaly detection
+ 
 - ⛓️ [Blockchain Project](#) – Decentralized application  
 
 ## 🔹 Connect With Me  
