@@ -22,4 +22,4 @@ Hi 👋, I'm Amardeep Maroli
 
 ## 🔹 Connect With Me  
 📧 Email: deepuamardeep7@gmail.com  
-🔗 [LinkedIn]((https://www.linkedin.com/in/amardeep-maroli-ba7589308/)) 
+🔗 [LinkedIn]:https://www.linkedin.com/in/amardeep-maroli-ba7589308 
