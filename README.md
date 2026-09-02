@@ -69,7 +69,7 @@
 <tr>
 <td align="center">🏗️</td>
 <td>
-<b>Founder</b> — <a href="https://www.apisecurityguide.com/">Secure Future Academy</a> — a growing network of browser-based security simulators & tools
+<b>Founder</b> — <a href="https://www.apisecurityguide.com/">API Security Guide</a> — a growing network of browser-based security simulators & tools
 </td>
 </tr>
 <tr>
