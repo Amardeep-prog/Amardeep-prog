@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:00ff9c,100:0f0f0f&height=220&section=header&text=%F0%9F%A5%B7%20AMARDEEP%20MAROLI&fontSize=42&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=Offensive%20%2B%20Defensive%20Security%20%7C%20SOC%20%2F%20Cloud%20%2F%20AppSec&descAlignY=58&descAlign=50" width="100%"/>
+<img src="assets/hacker-icon.svg" width="90" height="84"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:00ff9c,100:0f0f0f&height=220&section=header&text=AMARDEEP%20MAROLI&fontSize=46&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=Offensive%20%2B%20Defensive%20Security%20%7C%20SOC%20%2F%20Cloud%20%2F%20AppSec&descAlignY=58&descAlign=50" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=whoami+%3D%3D+SOC+Analyst+%2B+Builder;sudo+access+granted+to%3A+cybersecurity;Currently+hunting+misconfigured+S3+buckets;Building+AI-powered+detection+engines...;Status%3A+Online+%7C+Shell%3A+%2Fbin%2Fzsh" alt="Typing SVG" />
 
