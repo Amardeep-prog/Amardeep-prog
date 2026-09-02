@@ -32,36 +32,88 @@
 
 ## `0x00` About the Operator
 
-- 🛰️ Currently doing SOC/SIEM analyst work at **Inhok Technologies** — hands-on with **Splunk, Wazuh, ELK Stack**
-- 🎓 MCA candidate at **PES University**, shipping a decentralized identity (DIAM) capstone on **Ethereum**
-- 🏆 **Top 2% globally on TryHackMe**, **CompTIA Security+ (782)**, **6 validated HackerOne findings** (incl. 2 medium-severity IDORs)
-- 🧪 Holds **CSEDP · CCPC · CRTOM · CTIGA** plus 17+ additional certs across TryHackMe / Red Team Leaders / Forage
-- 🏗️ Founder of **Secure Future Academy** — courses, tools, and a growing arsenal of browser-based security simulators at `apisecurityguide.com`
-- 📡 Currently exploring **AI-powered intrusion detection & SOC automation**
+<div align="center">
+
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%202%25%20Global-0f0f0f?style=for-the-badge&logo=tryhackme&logoColor=red&labelColor=0f0f0f)
+![Security+](https://img.shields.io/badge/CompTIA%20Security+-782%2F900-0f0f0f?style=for-the-badge&logo=comptia&logoColor=E4002B&labelColor=0f0f0f)
+![HackerOne](https://img.shields.io/badge/HackerOne-6%20Validated%20Findings-0f0f0f?style=for-the-badge&logo=hackerone&logoColor=white&labelColor=0f0f0f)
+![Certs](https://img.shields.io/badge/Certifications-17%2B-0f0f0f?style=for-the-badge&logo=verizon&logoColor=00ff9c&labelColor=0f0f0f)
+
+</div>
+
+<table>
+<tr>
+<td width="8%" align="center">🛰️</td>
+<td width="92%">
+<b>Field Ops</b> — SOC / SIEM Analyst Intern @ <b>Inhok Technologies</b>, hands-on with <img src="https://img.shields.io/badge/Splunk-black?style=flat-square&logo=splunk"/> <img src="https://img.shields.io/badge/Wazuh-black?style=flat-square&logo=wazuh"/> <img src="https://img.shields.io/badge/ELK_Stack-black?style=flat-square&logo=elastic"/>
+</td>
+</tr>
+<tr>
+<td align="center">🎓</td>
+<td>
+<b>Education</b> — MCA candidate @ <b>PES University</b>, Bengaluru · shipping <b>DIAM</b>, a decentralized identity capstone on Ethereum
+</td>
+</tr>
+<tr>
+<td align="center">🏆</td>
+<td>
+<b>Rank</b> — Top 2% globally on TryHackMe (170+ rooms · 35 badges) · CompTIA Security+ (782) · 6 validated HackerOne findings incl. 2 medium-severity IDORs
+</td>
+</tr>
+<tr>
+<td align="center">🧪</td>
+<td>
+<b>Certified</b> — CSEDP · CCPC · CRTOM · CTIGA, plus 17+ additional certs across TryHackMe / Red Team Leaders / Forage
+</td>
+</tr>
+<tr>
+<td align="center">🏗️</td>
+<td>
+<b>Founder</b> — <a href="https://www.apisecurityguide.com/">Secure Future Academy</a> — a growing network of browser-based security simulators & tools
+</td>
+</tr>
+<tr>
+<td align="center">📡</td>
+<td>
+<b>Current Focus</b> — AI-powered intrusion detection & SOC automation
+</td>
+</tr>
+</table>
 
 <br/>
 
 ## `0x01` Arsenal — AI Security Platforms
 
-> Full-stack, production-grade security tooling. FastAPI / React / TypeScript / Three.js.
+> Full-stack, production-grade security tooling.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🟡 IdentityGuard AI
-**Enterprise CIEM — Cloud Identity Security Posture**
-- Stack: `FastAPI` · `React` · `TypeScript` · `Three.js`
+![](https://img.shields.io/badge/IdentityGuard_AI-FFD700?style=for-the-badge&logo=hive&logoColor=black)
+<br/>
+<sub><b>ENTERPRISE CIEM · CLOUD IDENTITY POSTURE</b></sub>
+
+![](https://skillicons.dev/icons?i=fastapi,react,ts,threejs)
+
 - 3D identity relationship graph, "bumblebee" black/yellow/silver hive UI
 - Award-level UX for enterprise cloud identity risk
 
 </td>
 <td width="50%" valign="top">
 
-### 🟢 SentinelForge AI
-**AI Detection Engineering & Threat Hunting**
-- Stack: `FastAPI` · `React` · `Monaco Editor`
-- Generates `Sigma` / `SPL` / `KQL` / `EQL` / `YARA` / `Suricata` / `Falco` rules
+![](https://img.shields.io/badge/SentinelForge_AI-00C896?style=for-the-badge&logo=datadog&logoColor=black)
+<br/>
+<sub><b>AI DETECTION ENGINEERING · THREAT HUNTING</b></sub>
+
+![](https://skillicons.dev/icons?i=fastapi,react)
+&nbsp;
+![Sigma](https://img.shields.io/badge/Sigma-1a1a1a?style=flat-square&color=2e2e2e&labelColor=00C896&logoColor=black)
+![SPL](https://img.shields.io/badge/SPL-1a1a1a?style=flat-square&color=2e2e2e&labelColor=00C896&logoColor=black)
+![KQL](https://img.shields.io/badge/KQL-1a1a1a?style=flat-square&color=2e2e2e&labelColor=00C896&logoColor=black)
+![YARA](https://img.shields.io/badge/YARA-1a1a1a?style=flat-square&color=2e2e2e&labelColor=00C896&logoColor=black)
+
+- Also generates EQL, Suricata & Falco detection rules
 - Dark emerald / gunmetal / gold armored command-center theme
 
 </td>
@@ -69,18 +121,25 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🔵 SecureCode AI
-**Enterprise SAST Platform**
+![](https://img.shields.io/badge/SecureCode_AI-3B82F6?style=for-the-badge&logo=snyk&logoColor=white)
+<br/>
+<sub><b>ENTERPRISE SAST PLATFORM</b></sub>
+
+![](https://skillicons.dev/icons?i=fastapi,react,ts)
+
 - 42-rule vulnerability engine — OWASP Top 10 across 7 languages
 - 21-signature secrets scanner w/ Shannon entropy analysis
-- SBOM generation (`CycloneDX`/`SPDX`), OSV.dev CVE lookups, WebSocket live scan streaming
+- SBOM generation (CycloneDX/SPDX), OSV.dev CVE lookups, live WebSocket scan streaming
 
 </td>
 <td width="50%" valign="top">
 
-### 🟣 AttackSurface AI
-**External Attack Surface Management (EASM)**
-- Stack: `React` · `Vite` · `Tailwind` · `Three.js` · `Recharts`
+![](https://img.shields.io/badge/AttackSurface_AI-A855F7?style=for-the-badge&logo=radar&logoColor=white)
+<br/>
+<sub><b>EXTERNAL ATTACK SURFACE MANAGEMENT</b></sub>
+
+![](https://skillicons.dev/icons?i=react,vite,tailwind,threejs)
+
 - Live 3D panels, "venom" green/cyan glass dashboard
 - Full asset/domain/subdomain/IP/cert/threat-intel surface mapping
 
@@ -89,19 +148,25 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🟠 SOCVerse AI
-**SOC Analyst Career Simulator**
-- Stack: `React 19` · `Vite` · `Three.js globe` · `Framer Motion`
-- Multi-company MSSP simulation, procedural alerts, MITRE-mapped investigations
-- Career ladder: SOC Intern → CISO
+![](https://img.shields.io/badge/SOCVerse_AI-FF7A00?style=for-the-badge&logo=cyberdefenders&logoColor=white)
+<br/>
+<sub><b>SOC ANALYST CAREER SIMULATOR</b></sub>
+
+![](https://skillicons.dev/icons?i=react,vite,threejs)
+
+- Multi-company MSSP simulation with procedural, MITRE-mapped investigations
+- Full career ladder: SOC Intern → CISO
 
 </td>
 <td width="50%" valign="top">
 
-### ⚪ DIAM — Decentralized Identity & Access Mgmt
-**MCA Capstone Project**
-- Stack: `Solidity` · `Ethereum (Sepolia)` · `React` · `Node.js` · `MongoDB` · `Ethers.js`
-- DIDs, Verifiable Credentials, Zero-Knowledge Proofs
+![](https://img.shields.io/badge/DIAM-CCCCCC?style=for-the-badge&logo=ethereum&logoColor=black)
+<br/>
+<sub><b>DECENTRALIZED IDENTITY & ACCESS MGMT · MCA CAPSTONE</b></sub>
+
+![](https://skillicons.dev/icons?i=solidity,react,nodejs,mongodb)
+
+- Built on Ethereum Sepolia with DIDs, Verifiable Credentials & Zero-Knowledge Proofs
 
 </td>
 </tr>
