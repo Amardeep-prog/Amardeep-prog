@@ -6,10 +6,10 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00ff9c)](https://amardeep-portfolio-vert.vercel.app)
-[![Blog](https://img.shields.io/badge/Secure_Future_Academy-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff9c)](https://apisecurityguide.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00ff9c)](https://portfolio.apisecurityguide.com/)
+[![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=blogger&logoColor=00ff9c)](https://www.apisecurityguide.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff9c)](https://linkedin.com/in/amardeep-maroli)
-[![Gumroad](https://img.shields.io/badge/Courses-000000?style=for-the-badge&logo=gumroad&logoColor=00ff9c)](https://deepuverse22.gumroad.com)
+[![Security Tools](https://img.shields.io/badge/Security_Tools-000000?style=for-the-badge&logo=toolbox&logoColor=00ff9c)](https://www.apisecurityguide.com/p/security-tools-hub.html)
 
 </div>
 
@@ -195,10 +195,10 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-00ff9c?style=flat-square&logo=vercel&logoColor=black)](https://amardeep-portfolio-vert.vercel.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-00ff9c?style=flat-square&logo=vercel&logoColor=black)](https://portfolio.apisecurityguide.com/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-00ff9c?style=flat-square&logo=linkedin&logoColor=black)](https://linkedin.com/in/amardeep-maroli)
-[![Blog](https://img.shields.io/badge/-Secure_Future_Academy-00ff9c?style=flat-square&logo=blogger&logoColor=black)](https://apisecurityguide.com)
-[![Courses](https://img.shields.io/badge/-Gumroad_Courses-00ff9c?style=flat-square&logo=gumroad&logoColor=black)](https://deepuverse22.gumroad.com)
+[![Blog](https://img.shields.io/badge/-Blog-00ff9c?style=flat-square&logo=blogger&logoColor=black)](https://www.apisecurityguide.com/)
+[![Security Tools](https://img.shields.io/badge/-Security_Tools-00ff9c?style=flat-square&logo=toolbox&logoColor=black)](https://www.apisecurityguide.com/p/security-tools-hub.html)
 
 <br/>
 
