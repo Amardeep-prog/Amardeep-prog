@@ -20,7 +20,7 @@
 └──╼ $ cat identity.json
 {
   "name"        : "Amardeep Maroli",
-  "role"        : "SOC / SIEM Analyst Intern @ Inhok Technologies",
+  "role"        : "Security Engineer Intern @ Inhok Technologies",
   "education"   : "MCA @ PES University, Bengaluru — Class of 2026",
   "focus"       : ["SOC Operations", "Cloud Security", "API Security", "AI-driven Detection Engineering"],
   "rank"        : "Top 2% — TryHackMe (170+ rooms, 35 badges)",
@@ -35,8 +35,6 @@
 <div align="center">
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%202%25%20Global-0f0f0f?style=for-the-badge&logo=tryhackme&logoColor=red&labelColor=0f0f0f)
-![Security+](https://img.shields.io/badge/CompTIA%20Security+-782%2F900-0f0f0f?style=for-the-badge&logo=comptia&logoColor=E4002B&labelColor=0f0f0f)
-![HackerOne](https://img.shields.io/badge/HackerOne-6%20Validated%20Findings-0f0f0f?style=for-the-badge&logo=hackerone&logoColor=white&labelColor=0f0f0f)
 ![Certs](https://img.shields.io/badge/Certifications-17%2B-0f0f0f?style=for-the-badge&logo=verizon&logoColor=00ff9c&labelColor=0f0f0f)
 
 </div>
@@ -45,7 +43,7 @@
 <tr>
 <td width="8%" align="center">🛰️</td>
 <td width="92%">
-<b>Field Ops</b> — SOC / SIEM Analyst Intern @ <b>Inhok Technologies</b>, hands-on with <img src="https://img.shields.io/badge/Splunk-black?style=flat-square&logo=splunk"/> <img src="https://img.shields.io/badge/Wazuh-black?style=flat-square&logo=wazuh"/> <img src="https://img.shields.io/badge/ELK_Stack-black?style=flat-square&logo=elastic"/>
+<b>Field Ops</b> — Security Engineer Intern @ <b>Inhok Technologies</b>, hands-on with <img src="https://img.shields.io/badge/Splunk-black?style=flat-square&logo=splunk"/> <img src="https://img.shields.io/badge/Wazuh-black?style=flat-square&logo=wazuh"/> <img src="https://img.shields.io/badge/ELK_Stack-black?style=flat-square&logo=elastic"/>
 </td>
 </tr>
 <tr>
@@ -57,7 +55,7 @@
 <tr>
 <td align="center">🏆</td>
 <td>
-<b>Rank</b> — Top 2% globally on TryHackMe (170+ rooms · 35 badges) · CompTIA Security+ (782) · 6 validated HackerOne findings incl. 2 medium-severity IDORs
+<b>Rank</b> — Top 2% globally on TryHackMe (170+ rooms · 35 badges)
 </td>
 </tr>
 <tr>
@@ -69,7 +67,7 @@
 <tr>
 <td align="center">🏗️</td>
 <td>
-<b>Founder</b> — <a href="https://www.apisecurityguide.com/">API Security Guide</a> — a growing network of browser-based security simulators & tools
+<b>Founder</b> — <a href="https://www.apisecurityguide.com/">Secure Future Academy</a> — a growing network of browser-based security simulators & tools
 </td>
 </tr>
 <tr>
@@ -134,9 +132,9 @@
 </td>
 <td width="50%" valign="top">
 
-![](https://img.shields.io/badge/AttackSurface_AI-A855F7?style=for-the-badge&logo=radar&logoColor=white)
+[![](https://img.shields.io/badge/AttackSurface_AI-A855F7?style=for-the-badge&logo=radar&logoColor=white)](https://attacksurface.apisecurityguide.com/)
 <br/>
-<sub><b>EXTERNAL ATTACK SURFACE MANAGEMENT</b></sub>
+<sub><b>EXTERNAL ATTACK SURFACE MANAGEMENT</b></sub> · <a href="https://attacksurface.apisecurityguide.com/">🔗 Live</a>
 
 ![](https://skillicons.dev/icons?i=react,vite,tailwind,threejs)
 
@@ -148,9 +146,9 @@
 <tr>
 <td width="50%" valign="top">
 
-![](https://img.shields.io/badge/SOCVerse_AI-FF7A00?style=for-the-badge&logo=cyberdefenders&logoColor=white)
+[![](https://img.shields.io/badge/SOCVerse_AI-FF7A00?style=for-the-badge&logo=cyberdefenders&logoColor=white)](https://socverse.apisecurityguide.com/)
 <br/>
-<sub><b>SOC ANALYST CAREER SIMULATOR</b></sub>
+<sub><b>SOC ANALYST CAREER SIMULATOR</b></sub> · <a href="https://socverse.apisecurityguide.com/">🔗 Live</a>
 
 ![](https://skillicons.dev/icons?i=react,vite,threejs)
 
@@ -176,19 +174,31 @@
 
 ## `0x02` Interactive Cyber-Range — Hands-on Security Games
 
-> Browser-based, gamified training simulators built for the `apisecurityguide.com` subdomain network — each with its own original visual identity.
+> Browser-based, gamified training simulators built for the `apisecurityguide.com` subdomain network — each with its own original visual identity. Click **Launch** to play live.
 
-| Simulator | What it Trains | Domain |
+| Simulator | What it Trains | Launch |
 |---|---|---|
-| 🛡️ **Firewall Defender** | Real-time firewall rule configuration under live attack | `firewall.apisecurityguide.com` |
-| 🔍 **Packet Investigator** | Wireshark-style packet forensics — 6 full investigation cases | `packets.apisecurityguide.com` |
-| ☁️ **Cloud Security Challenge** | AWS misconfiguration hunting vs. a live Attacker AI | `cloud.apisecurityguide.com` |
-| 🔑 **PasswordLab** | Hash cracking, entropy analysis, GPU cluster attack sim | `passwordlab.apisecurityguide.com` |
-| 🎣 **Phishing Email Challenge** | Email triage across 6 difficulty tiers, 1000+ generated emails | `phishing.apisecurityguide.com` |
-| 🖥️ **Linux Command Challenge** | Kali-style live terminal — 1126 real command questions | `linux.apisecurityguide.com` |
-| 🏰 **Cyber Escape Room** | 11-room ransomware-takeover puzzle across 13 challenge types | `escape.apisecurityguide.com` |
-| 📈 **Hacker Tycoon** | Idle career-builder — student to Fortune 500 security vendor | `hackertycoon.apisecurityguide.com` |
-| 🧠 **Cybersecurity Quiz Arena** | Fast-fire knowledge quiz arena | `quiz.apisecurityguide.com` |
+| 🧠 **Cybersecurity Quiz Arena** ⭐⭐⭐⭐⭐ | Fast-fire knowledge quiz arena | [![Launch](https://img.shields.io/badge/▶_Launch-00ff9c?style=flat-square&labelColor=0f0f0f)](https://quiz.apisecurityguide.com/) |
+| 🎣 **Phishing Email Challenge** | Email triage across 6 difficulty tiers, 1000+ generated emails | [![Launch](https://img.shields.io/badge/▶_Launch-00ff9c?style=flat-square&labelColor=0f0f0f)](https://phishing.apisecurityguide.com) |
+| 🔑 **PasswordLab** — GPU Cracking Simulator | Hash cracking, entropy analysis, GPU cluster attack sim | [![Launch](https://img.shields.io/badge/▶_Launch-00ff9c?style=flat-square&labelColor=0f0f0f)](https://passwordlab.apisecurityguide.com/) |
+| 🏰 **Ember Keep** — Cybersecurity Escape Room | 11-room ransomware-takeover puzzle across 13 challenge types | [![Launch](https://img.shields.io/badge/▶_Launch-00ff9c?style=flat-square&labelColor=0f0f0f)](https://escape.apisecurityguide.com/) |
+| 📈 **Hacker Tycoon** ⭐⭐⭐⭐⭐ | Idle career-builder — student to Fortune 500 security vendor | [![Launch](https://img.shields.io/badge/▶_Launch-00ff9c?style=flat-square&labelColor=0f0f0f)](https://tycoon.apisecurityguide.com/) |
+| 🖥️ **Linux Command Challenge** ⭐⭐⭐⭐⭐ | Kali-style live terminal — 1126 real command questions | [![Launch](https://img.shields.io/badge/▶_Launch-00ff9c?style=flat-square&labelColor=0f0f0f)](https://linux.apisecurityguide.com/) |
+| 🛰️ **SOCVerse AI** | SOC analyst career sim — MITRE-mapped investigations | [![Launch](https://img.shields.io/badge/▶_Launch-00ff9c?style=flat-square&labelColor=0f0f0f)](https://socverse.apisecurityguide.com/) |
+
+<br/>
+
+## `0x02b` Security Tools Suite
+
+> Standalone security utilities, live at `apisecurityguide.com` subdomains.
+
+| Tool | Function | Launch |
+|---|---|---|
+| ☁️ **Cloud Scanner** | Cloud misconfiguration & exposure scanning | [![Launch](https://img.shields.io/badge/▶_Launch-00ff9c?style=flat-square&labelColor=0f0f0f)](https://scanner.apisecurityguide.com/) |
+| 🔐 **SecurePassword** | Password strength & breach-exposure checker | [![Launch](https://img.shields.io/badge/▶_Launch-00ff9c?style=flat-square&labelColor=0f0f0f)](https://password.apisecurityguide.com/) |
+| 📧 **MailGuard XDR** | Email threat detection & header analysis | [![Launch](https://img.shields.io/badge/▶_Launch-00ff9c?style=flat-square&labelColor=0f0f0f)](https://mailguard.apisecurityguide.com/) |
+| 🎯 **PhishScope** | Phishing URL / site inspection | [![Launch](https://img.shields.io/badge/▶_Launch-00ff9c?style=flat-square&labelColor=0f0f0f)](https://phishscope.apisecurityguide.com/) |
+| 🛰️ **AttackSurface** | External attack surface mapping | [![Launch](https://img.shields.io/badge/▶_Launch-00ff9c?style=flat-square&labelColor=0f0f0f)](https://attacksurface.apisecurityguide.com/) |
 
 <br/>
 
@@ -235,8 +245,6 @@
 | 🏅 Achievement | Detail |
 |---|---|
 | TryHackMe | **Top 2% global** — 170+ rooms completed, 35 badges |
-| CompTIA Security+ | Score **782** |
-| HackerOne | 6 validated findings, incl. 2 medium-severity IDORs |
 | Certifications | CSEDP · CCPC · CRTOM · CTIGA + 17 more (THM / Red Team Leaders / Forage) |
 
 </div>
