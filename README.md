@@ -21,7 +21,7 @@
 {
   "name"        : "Amardeep Maroli",
   "role"        : "Security Engineer Intern @ Inhok Technologies",
-  "education"   : "MCA @ PES University, Bengaluru — Class of 2026",
+  "education"   : "MCA @ PES University, Bengaluru — Class of 2024",
   "focus"       : ["SOC Operations", "Cloud Security", "API Security", "AI-driven Detection Engineering"],
   "rank"        : "Top 2% — TryHackMe (170+ rooms, 35 badges)",
   "status"      : "Building an arsenal of full-stack security tools & simulators"
